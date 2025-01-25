@@ -37,6 +37,8 @@ public class NestedTryBlock {
 		}catch (Exception e) {
 			
 			System.out.println("End of block one");
+			System.out.println("222");
+			System.out.println("333");
 		}
 	}
 }
