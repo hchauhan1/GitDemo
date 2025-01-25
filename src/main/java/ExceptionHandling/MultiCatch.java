@@ -25,6 +25,8 @@ public class MultiCatch {
 		}catch (Exception e) {
 			
 			System.out.println("gneral error generated");
+			System.out.println("gneral error no");
+			System.out.println("gneral error yes");
 		}
 
 	}

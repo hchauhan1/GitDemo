@@ -22,7 +22,8 @@ public class HashMapDemo {
 		}
 		System.out.println("Size of Hash Map: "+ hmap.size());
 		
-		
+		System.out.println("Size of Hash Map: "+ hmap.size());
+		System.out.println("Size of Hash Map: "+ hmap.size());
 		
 	}
 
